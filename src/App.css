@@ -1,14 +1,11 @@
 .App {
   text-align: center;
 }
-body{
-  font-family: 'Nunito', sans-serif;
-  
+body {
+  font-family: "Nunito", sans-serif;
 }
-:root{
+:root {
   --black: #111517;
   --white: white;
   --background: #fafafa;
-  --main: red;
 }
-
